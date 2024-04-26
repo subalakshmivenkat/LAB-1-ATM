@@ -19,6 +19,9 @@ to withdraw money,deposit.
 ## CLASS DIAGRAM:
 ![image](https://github.com/subalakshmivenkat/LAB-1-ATM/assets/119393477/95d40fab-cb30-4f34-ac71-d840905de756)
 
+## COMMUNICATION DIAGRAM:
+![323471216-f68d9855-e464-4137-b5b5-6d24e3a98e3d](https://github.com/subalakshmivenkat/LAB-1-ATM/assets/119393477/7220ad4d-e9dd-4840-8e4f-8560b687ee44)
+
 ## ACTIVITY DIAGRAM:
 ![image](https://github.com/subalakshmivenkat/LAB-1-ATM/assets/119393477/62d22efa-2b57-4fcf-8a30-28ccced78e1b)
 
